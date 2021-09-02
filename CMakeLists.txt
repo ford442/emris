@@ -27,8 +27,7 @@ ADD_CUSTOM_TARGET(
     em++
     -std=c++11
     -s FULL_ES2=1
-    -s GL_TESTING=1
-    -O2
+    -O3
     -I ${GLM_INCLUDE_DIR}
     -o emris.js
     ${CMAKE_CURRENT_SOURCE_DIR}/src/main.cpp
