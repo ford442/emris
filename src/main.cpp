@@ -20,10 +20,10 @@
 #include <iomanip>
 #include <sys/time.h>
 #include <GL/glut.h>
-#include <glm/glm.hpp>
-#include <glm/gtc/constants.hpp>
-#include <glm/gtc/matrix_transform.hpp>
-#include <glm/gtc/type_ptr.hpp>
+#include </usr/include/glm/glm.hpp>
+#include </usr/include/glm/gtc/constants.hpp>
+#include </usr/include/glm/gtc/matrix_transform.hpp>
+#include </usr/include/glm/gtc/type_ptr.hpp>
 #include "Shader.hpp"
 #include "ObjectData.hpp"
 #include "Tetris.hpp"
