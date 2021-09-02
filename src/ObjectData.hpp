@@ -13,7 +13,7 @@
 #include <unordered_map>
 #include <string>
 #include <GL/glut.h>
-#include <glm/glm.hpp>
+#include </usr/include/glm/glm.hpp>
 
 struct ObjectData
 {
