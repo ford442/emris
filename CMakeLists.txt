@@ -30,6 +30,6 @@ ADD_CUSTOM_TARGET(
     -s GL_TESTING=1
     -O2
     -I ${GLM_INCLUDE_DIR}
-    -o emris.html
+    -o emris.js
     ${CMAKE_CURRENT_SOURCE_DIR}/src/main.cpp
 )
